@@ -1,0 +1,101 @@
+{
+ "criterios": "capitalización de 2.000 M USD o más, 2 años o más con futuros en Binance, FDV/capitalización de 2 o menos, uso real (ingresos o TVL), más de 100 M USD por día en futuros, ficha verde; sin memecoins, stablecoins ni tokens de exchanges",
+ "aprobadas": [
+  {
+   "symbol": "BTC",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "ETH",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "BNB",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "SOL",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "LINK",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "UNI",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "AAVE",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "ENA",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "NEAR",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  }
+ ],
+ "rechazadas": [
+  {
+   "symbol": "DOT",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "motivo": "Pablo: «es una estafa»"
+  },
+  {
+   "symbol": "BCH",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "motivo": "Pablo"
+  }
+ ],
+ "propuestas": {},
+ "revisiones": {},
+ "suspendidas": {},
+ "reactivadas": {
+  "AAVE": {
+   "desde": "2026-10-03T00:41:38.828Z",
+   "hasta": "2026-10-10T00:41:38.828Z"
+  },
+  "NEAR": {
+   "desde": "2026-10-03T00:41:38.848Z",
+   "hasta": "2026-10-10T00:41:38.848Z"
+  },
+  "BTC": {
+   "desde": "2026-10-03T00:48:57.533Z",
+   "hasta": "2026-10-10T00:48:57.533Z"
+  },
+  "ETH": {
+   "desde": "2026-10-03T00:48:57.546Z",
+   "hasta": "2026-10-10T00:48:57.546Z"
+  },
+  "BNB": {
+   "desde": "2026-10-03T00:48:57.547Z",
+   "hasta": "2026-10-10T00:48:57.547Z"
+  },
+  "LINK": {
+   "desde": "2026-10-03T13:23:03.263Z",
+   "hasta": "2026-10-10T13:23:03.263Z"
+  }
+ },
+ "ultimoAvisoRevision": {},
+ "pausas": {
+  "ENA-2026-10-05": {
+   "symbol": "ENA",
+   "fecha": "2026-10-05",
+   "motivo": "Desbloqueo en bloque de ≈1.410 M ENA (≈14% del circulante) a inversores y Fundación.",
+   "desde": "2026-10-04T00:00:00.000Z",
+   "hasta": "2026-10-07T00:00:00.000Z"
+  }
+ }
+}

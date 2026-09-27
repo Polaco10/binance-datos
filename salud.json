@@ -1,0 +1,25 @@
+{
+ "generado": "2026-10-11T03:55:22Z",
+ "ok": true,
+ "problemas": [],
+ "revisado": [
+  "Estado del vigía (se guarda cada minuto)",
+  "vigia.json publicado (Laboratorio y Telegram lo leen)",
+  "Datos de mercado de Binance (collector, cada 2 h)",
+  "Velas para el Laboratorio (collector, cada 2 h)",
+  "Extras: macro, flujos, ballenas de Hyperliquid (cada 4 h)",
+  "Revisión de noticias de las monedas (2 por día; la de las 11:20 tarda ~4 h)",
+  "Posicionamiento en Binance (cada 4 h)",
+  "Grandes tenedores, ETF y stablecoins (cada 2 h)",
+  "Estadísticas de todas las cuentas (todos los días)",
+  "Revisión de los traders de G (cada lunes)",
+  "Revisión diaria del Laboratorio (rutina en la nube, 20:52)",
+  "Fotos de las carteras de bot-cripto (cada hora)",
+  "Lista de billeteras de las carteras C/D (cada 10 min)",
+  "Estudio de gemas (cada 6 h)",
+  "Copia de traders de la cartera G (cada 5 min)",
+  "Vigía 24 h",
+  "Bot de Telegram (carteras, menús)",
+  "Búsqueda de billeteras"
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "generado": "2026-10-11T02:51:54Z",
+ "nota": "FASE 1: datos, todavía no frenan operaciones. posibleVenta = envío a un exchange conocido (1salto = pasando por una dirección intermedia); direccionNueva/interno = movimientos que no son venta.",
+ "vigiladas": 158,
+ "descubiertas": [],
+ "resumen7d": {
+  "BTC": {
+   "aExchange7d": 0,
+   "interno7d": 115,
+   "recibido7d": 128,
+   "precio": 83110.15
+  },
+  "ETH": {
+   "aExchange7d": 0,
+   "interno7d": 0,
+   "recibido7d": 0,
+   "precio": 2512.45
+  },
+  "XRP": {
+   "aExchange7d": 0,
+   "interno7d": 0,
+   "recibido7d": 0,
+   "precio": 1.4013
+  }
+ },
+ "eventos": [
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 114.884906,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "c3cdbfe40b1858cb1d8bd818611b80931237eebefa9ff7ad4856b1467861a8a7",
+   "t": "2026-10-10T08:47:22Z",
+   "usd": 9511073,
+   "enPrueba": true
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "BTC",
+   "monto": 127.51869228,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "txid": "4789bd8d48c7a153b22ba24664577f47d8bc7ca2cac55c3bab87f260a998faf5",
+   "t": "2026-10-10T13:29:30Z",
+   "usd": 10591534
+  }
+ ],
+ "etfBtc": {
+  "fuente": "bitbo.io (no coincide exacto con Farside)",
+  "dias": [
+   {
+    "fecha": "2026-09-28",
+    "totalM": -0.0
+   },
+   {
+    "fecha": "2026-09-29",
+    "totalM": 18.9
+   },
+   {
+    "fecha": "2026-09-30",
+    "totalM": -148.2
+   },
+   {
+    "fecha": "2026-10-01",
+    "totalM": -14.8
+   },
+   {
+    "fecha": "2026-10-02",
+    "totalM": 296.1
+   },
+   {
+    "fecha": "2026-10-05",
+    "totalM": -4.6
+   },
+   {
+    "fecha": "2026-10-06",
+    "totalM": -76.9
+   },
+   {
+    "fecha": "2026-10-07",
+    "totalM": -347.7
+   },
+   {
+    "fecha": "2026-10-08",
+    "totalM": -87.5
+   }
+  ],
+  "ultimo": -87.5,
+  "fechaUltimo": "2026-10-08",
+  "suma5M": -220.6
+ },
+ "stablecoins7d": {
+  "USDT": {
+   "circulanteM": 184068,
+   "cambio7dM": 165
+  },
+  "USDC": {
+   "circulanteM": 73155,
+   "cambio7dM": -1085
+  }
+ }
+}
