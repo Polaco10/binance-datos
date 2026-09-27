@@ -1,0 +1,110 @@
+{
+ "criterios": "capitalización de 2.000 M USD o más, 2 años o más con futuros en Binance, FDV/capitalización de 2 o menos, uso real (ingresos o TVL), más de 100 M USD por día en futuros, ficha verde; sin memecoins, stablecoins ni tokens de exchanges",
+ "aprobadas": [
+  {
+   "symbol": "BTC",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "ETH",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "BNB",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "SOL",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "LINK",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "UNI",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "AAVE",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "ENA",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  },
+  {
+   "symbol": "NEAR",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "origen": "lista inicial por fundamentos (2/10)"
+  }
+ ],
+ "rechazadas": [
+  {
+   "symbol": "DOT",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "motivo": "Pablo: «es una estafa»"
+  },
+  {
+   "symbol": "BCH",
+   "desde": "2026-10-02T23:58:07.441Z",
+   "motivo": "Pablo"
+  }
+ ],
+ "propuestas": {},
+ "revisiones": {
+  "UNI": {
+   "symbol": "UNI",
+   "motivo": "Ingresos 30 d −29,1% (15,2 M vs 21,4 M) según DefiLlama: uso real en caída.",
+   "desde": "2026-10-03T02:30:48.254Z",
+   "revision": "2026-10-03T00:10:00Z"
+  },
+  "ENA": {
+   "symbol": "ENA",
+   "motivo": "Desbloqueo de ≈14% del circulante el 5 oct, billeteras del equipo vendiendo y ficha amarilla: dilución nueva.",
+   "desde": "2026-10-03T02:30:48.254Z",
+   "revision": "2026-10-03T00:10:00Z"
+  },
+  "AAVE": {
+   "symbol": "AAVE",
+   "motivo": "Ingresos 30 d −13,9%, ficha amarilla por deuda incobrable de abril y venta de ballena antigua.",
+   "desde": "2026-10-03T02:30:48.254Z",
+   "revision": "2026-10-03T00:10:00Z"
+  }
+ },
+ "suspendidas": {},
+ "reactivadas": {
+  "AAVE": {
+   "desde": "2026-10-03T00:41:38.828Z",
+   "hasta": "2026-10-10T00:41:38.828Z"
+  },
+  "NEAR": {
+   "desde": "2026-10-03T00:41:38.848Z",
+   "hasta": "2026-10-10T00:41:38.848Z"
+  },
+  "BTC": {
+   "desde": "2026-10-03T00:48:57.533Z",
+   "hasta": "2026-10-10T00:48:57.533Z"
+  },
+  "ETH": {
+   "desde": "2026-10-03T00:48:57.546Z",
+   "hasta": "2026-10-10T00:48:57.546Z"
+  },
+  "BNB": {
+   "desde": "2026-10-03T00:48:57.547Z",
+   "hasta": "2026-10-10T00:48:57.547Z"
+  },
+  "LINK": {
+   "desde": "2026-10-03T13:23:03.263Z",
+   "hasta": "2026-10-10T13:23:03.263Z"
+  }
+ }
+}
