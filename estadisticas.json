@@ -1,0 +1,1363 @@
+{
+ "generado": "2026-10-17T00:50:03Z",
+ "desde": "2026-10-06",
+ "cuentas": [
+  {
+   "nombre": "S7 spot · Nube de Ichimoku",
+   "corto": "S7 spot",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": 0.03,
+   "sharpeAnual": 4.81,
+   "psr": 0.87,
+   "minTRL": 23,
+   "caidaPct": -0.0,
+   "dsr": 0.14
+  },
+  {
+   "nombre": "F7 spot · Nube de Ichimoku + fundamental",
+   "corto": "F7 spot",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": 0.03,
+   "sharpeAnual": 4.81,
+   "psr": 0.87,
+   "minTRL": 23,
+   "caidaPct": -0.0
+  },
+  {
+   "nombre": "S7 · Nube de Ichimoku",
+   "corto": "S7",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": 1.1,
+   "sharpeAnual": 3.8,
+   "psr": 0.757,
+   "minTRL": 57,
+   "caidaPct": -0.9
+  },
+  {
+   "nombre": "F7 · Nube de Ichimoku + fundamental",
+   "corto": "F7",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": 0.89,
+   "sharpeAnual": 3.33,
+   "psr": 0.723,
+   "minTRL": 79,
+   "caidaPct": -0.9
+  },
+  {
+   "nombre": "Cartera A · Grupo, todo",
+   "corto": "Cartera A",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": 6.8,
+   "sharpeAnual": 3.03,
+   "psr": 0.712,
+   "minTRL": 79,
+   "caidaPct": -6.65
+  },
+  {
+   "nombre": "LAB+LT · Laboratorio sin fundamentos",
+   "corto": "LAB+LT",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": 0.24,
+   "sharpeAnual": 0.49,
+   "psr": 0.527,
+   "minTRL": 4105,
+   "caidaPct": -4.95
+  },
+  {
+   "nombre": "LAB · Laboratorio",
+   "corto": "LAB",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": 0.16,
+   "sharpeAnual": 0.41,
+   "psr": 0.523,
+   "minTRL": 5778,
+   "caidaPct": -3.49
+  },
+  {
+   "nombre": "LT · Laboratorio sin filtro fundamental",
+   "corto": "LT",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": 0.08,
+   "sharpeAnual": 0.31,
+   "psr": 0.517,
+   "minTRL": 10482,
+   "caidaPct": -1.53
+  },
+  {
+   "nombre": "T · nuevas",
+   "corto": "TN",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -1.39,
+   "sharpeAnual": -2.95,
+   "psr": 0.299,
+   "minTRL": null,
+   "caidaPct": -2.69
+  },
+  {
+   "nombre": "TF · establecidas + fundamental",
+   "corto": "TEF",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -6.89,
+   "sharpeAnual": -3.59,
+   "psr": 0.3,
+   "minTRL": null,
+   "caidaPct": -9.78
+  },
+  {
+   "nombre": "CF · Cartera de futuros (S7 + S1)",
+   "corto": "CF",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -3.02,
+   "sharpeAnual": -3.71,
+   "psr": 0.256,
+   "minTRL": null,
+   "caidaPct": -5.29
+  },
+  {
+   "nombre": "CFVOL · Cartera de futuros (S7 + S1) · tamaño por volatilidad",
+   "corto": "CFVOL",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -3.02,
+   "sharpeAnual": -3.71,
+   "psr": 0.256,
+   "minTRL": null,
+   "caidaPct": -5.29
+  },
+  {
+   "nombre": "Cartera G · Copiar traders",
+   "corto": "Cartera G",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -7.55,
+   "sharpeAnual": -3.73,
+   "psr": 0.275,
+   "minTRL": null,
+   "caidaPct": -12.49
+  },
+  {
+   "nombre": "FSAR · SAR parabólico lento + fundamental",
+   "corto": "FSAR",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -8.66,
+   "sharpeAnual": -3.84,
+   "psr": 0.294,
+   "minTRL": null,
+   "caidaPct": -13.65
+  },
+  {
+   "nombre": "Cartera G2 · Copiar traders con AT",
+   "corto": "Cartera G2",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -5.8,
+   "sharpeAnual": -4.25,
+   "psr": 0.251,
+   "minTRL": null,
+   "caidaPct": -9.6
+  },
+  {
+   "nombre": "SAR · SAR parabólico lento",
+   "corto": "SAR",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -12.47,
+   "sharpeAnual": -4.55,
+   "psr": 0.219,
+   "minTRL": null,
+   "caidaPct": -15.81
+  },
+  {
+   "nombre": "CFSH · Cartera de futuros (S7 + S1) · solo días hábiles",
+   "corto": "CFSH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -2.26,
+   "sharpeAnual": -4.65,
+   "psr": 0.33,
+   "minTRL": null,
+   "caidaPct": -3.51
+  },
+  {
+   "nombre": "F1 · Cruce de medias 9/21 + fundamental",
+   "corto": "F1",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -13.74,
+   "sharpeAnual": -4.77,
+   "psr": 0.193,
+   "minTRL": null,
+   "caidaPct": -18.54
+  },
+  {
+   "nombre": "S1 + Entrada anticipada · Cruce 9/21 entrando una vela antes",
+   "corto": "S1A",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -17.35,
+   "sharpeAnual": -4.77,
+   "psr": 0.201,
+   "minTRL": null,
+   "caidaPct": -22.87
+  },
+  {
+   "nombre": "S1 · Cruce de medias 9/21",
+   "corto": "S1",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -17.66,
+   "sharpeAnual": -5.38,
+   "psr": 0.159,
+   "minTRL": null,
+   "caidaPct": -22.24
+  },
+  {
+   "nombre": "CFFSH · Cartera de futuros + fundamental (F7 + F1) · solo días hábiles",
+   "corto": "CFFSH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -2.12,
+   "sharpeAnual": -5.45,
+   "psr": 0.304,
+   "minTRL": null,
+   "caidaPct": -2.85
+  },
+  {
+   "nombre": "S1 + Anticipada + Débil 1,2 % · la misma s1ad arriesgando 1,2 % por operación",
+   "corto": "S1AD12",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -23.9,
+   "sharpeAnual": -5.67,
+   "psr": 0.159,
+   "minTRL": null,
+   "caidaPct": -28.35
+  },
+  {
+   "nombre": "S1AD12MC · Pepe + miedo/codicia en contra",
+   "corto": "MC",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -23.9,
+   "sharpeAnual": -5.67,
+   "psr": 0.159,
+   "minTRL": null,
+   "caidaPct": -28.35
+  },
+  {
+   "nombre": "S1AD12DOM · Pepe + freno de dominancia de BTC",
+   "corto": "DOM",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -23.9,
+   "sharpeAnual": -5.67,
+   "psr": 0.159,
+   "minTRL": null,
+   "caidaPct": -28.35
+  },
+  {
+   "nombre": "CF2 · Cartera de futuros 2 (S7 0,9 % + S1 0,4 %, tope 8 %)",
+   "corto": "CF2",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -6.84,
+   "sharpeAnual": -5.73,
+   "psr": 0.194,
+   "minTRL": null,
+   "caidaPct": -9.73
+  },
+  {
+   "nombre": "F1A · Cruce 9/21 entrando una vela antes + fundamental",
+   "corto": "F1A",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -15.45,
+   "sharpeAnual": -5.79,
+   "psr": 0.207,
+   "minTRL": null,
+   "caidaPct": -19.76
+  },
+  {
+   "nombre": "S1 + Anticipada + Débil · Cruce 9/21 entrando una vela antes y saliendo si la subida se debilita",
+   "corto": "S1AD",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -20.35,
+   "sharpeAnual": -5.8,
+   "psr": 0.153,
+   "minTRL": null,
+   "caidaPct": -24.28
+  },
+  {
+   "nombre": "S1AD12TP · S1AD12 + TP 15 %",
+   "corto": "S1AD12TP",
+   "dias": 6,
+   "desde": "2026-10-11",
+   "quieta": false,
+   "totalPct": -16.7,
+   "sharpeAnual": -5.86,
+   "psr": 0.248,
+   "minTRL": null,
+   "caidaPct": -21.21
+  },
+  {
+   "nombre": "S1 + Subida débil · Cruce 9/21 con salida si la subida se debilita",
+   "corto": "S1D",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -18.97,
+   "sharpeAnual": -5.9,
+   "psr": 0.133,
+   "minTRL": null,
+   "caidaPct": -23.24
+  },
+  {
+   "nombre": "CFF · Cartera de futuros + fundamental (F7 + F1)",
+   "corto": "CFF",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -3.87,
+   "sharpeAnual": -5.95,
+   "psr": 0.188,
+   "minTRL": null,
+   "caidaPct": -5.34
+  },
+  {
+   "nombre": "T · establecidas",
+   "corto": "TE",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -19.8,
+   "sharpeAnual": -6.1,
+   "psr": 0.164,
+   "minTRL": null,
+   "caidaPct": -19.8
+  },
+  {
+   "nombre": "Cartera C · Billeteras",
+   "corto": "Cartera C",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -4.6,
+   "sharpeAnual": -6.28,
+   "psr": 0.06,
+   "minTRL": null,
+   "caidaPct": -4.6
+  },
+  {
+   "nombre": "F1AD12 · la misma s1ad arriesgando 1,2 % por operación + fundamental",
+   "corto": "F1AD12",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -20.21,
+   "sharpeAnual": -6.43,
+   "psr": 0.187,
+   "minTRL": null,
+   "caidaPct": -23.29
+  },
+  {
+   "nombre": "F1AD12MC · Pepe 🧠 + miedo/codicia en contra",
+   "corto": "MCF",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -20.21,
+   "sharpeAnual": -6.43,
+   "psr": 0.187,
+   "minTRL": null,
+   "caidaPct": -23.29
+  },
+  {
+   "nombre": "F1AD12DOM · Pepe 🧠 + freno de dominancia de BTC",
+   "corto": "DOMF",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -20.21,
+   "sharpeAnual": -6.43,
+   "psr": 0.187,
+   "minTRL": null,
+   "caidaPct": -23.29
+  },
+  {
+   "nombre": "F1AD12COMBO · Pepe 🧠 + miedo/codicia en contra + freno de dominancia de BTC",
+   "corto": "COMBO",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -20.21,
+   "sharpeAnual": -6.43,
+   "psr": 0.187,
+   "minTRL": null,
+   "caidaPct": -23.29
+  },
+  {
+   "nombre": "F1SH · Cruce de medias 9/21 + fundamental · solo días hábiles",
+   "corto": "F1SH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -9.8,
+   "sharpeAnual": -6.51,
+   "psr": 0.271,
+   "minTRL": null,
+   "caidaPct": -11.06
+  },
+  {
+   "nombre": "Cartera E · Reglas actuales",
+   "corto": "Cartera E",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -4.6,
+   "sharpeAnual": -6.53,
+   "psr": 0.05,
+   "minTRL": null,
+   "caidaPct": -4.6
+  },
+  {
+   "nombre": "F1AD · Cruce 9/21 entrando una vela antes y saliendo si la subida se debilita + fundamental",
+   "corto": "F1AD",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -17.15,
+   "sharpeAnual": -6.57,
+   "psr": 0.181,
+   "minTRL": null,
+   "caidaPct": -19.84
+  },
+  {
+   "nombre": "Cartera C2 · Billeteras con salida técnica",
+   "corto": "Cartera C2",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -4.9,
+   "sharpeAnual": -6.58,
+   "psr": 0.047,
+   "minTRL": null,
+   "caidaPct": -4.9
+  },
+  {
+   "nombre": "S1AD12P · S1AD12 + Parcial 15 %",
+   "corto": "S1AD12P",
+   "dias": 6,
+   "desde": "2026-10-11",
+   "quieta": false,
+   "totalPct": -18.79,
+   "sharpeAnual": -6.62,
+   "psr": 0.224,
+   "minTRL": null,
+   "caidaPct": -23.13
+  },
+  {
+   "nombre": "S1AD12PCOMBO · Remolino + miedo/codicia en contra + freno de dominancia de BTC",
+   "corto": "PCOMBO",
+   "dias": 6,
+   "desde": "2026-10-11",
+   "quieta": false,
+   "totalPct": -18.79,
+   "sharpeAnual": -6.62,
+   "psr": 0.224,
+   "minTRL": null,
+   "caidaPct": -23.13
+  },
+  {
+   "nombre": "Cartera F · Mi cartera (principal)",
+   "corto": "Cartera F",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -4.3,
+   "sharpeAnual": -6.65,
+   "psr": 0.046,
+   "minTRL": null,
+   "caidaPct": -4.35
+  },
+  {
+   "nombre": "S1AD12PVOL12 · Remolino Combo 1.2 % fijo, tope 15 %, tamaño por volatilidad, solo días hábiles",
+   "corto": "ALTO",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -13.75,
+   "sharpeAnual": -6.67,
+   "psr": 0.271,
+   "minTRL": null,
+   "caidaPct": -14.93
+  },
+  {
+   "nombre": "F1D · Cruce 9/21 con salida si la subida se debilita + fundamental",
+   "corto": "F1D",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -15.81,
+   "sharpeAnual": -6.77,
+   "psr": 0.156,
+   "minTRL": null,
+   "caidaPct": -19.33
+  },
+  {
+   "nombre": "S1AD12PVOL8 · Remolino Combo 0.8 % fijo, tope 10 %, tamaño por volatilidad, solo días hábiles",
+   "corto": "MEDIO",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -9.39,
+   "sharpeAnual": -6.91,
+   "psr": 0.262,
+   "minTRL": null,
+   "caidaPct": -10.2
+  },
+  {
+   "nombre": "S6 · Tortugas 55/20",
+   "corto": "S6",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": false,
+   "totalPct": -11.89,
+   "sharpeAnual": -6.93,
+   "psr": 0.131,
+   "minTRL": null,
+   "caidaPct": -14.78
+  },
+  {
+   "nombre": "S1AD12PPRUD · Remolino Combo prudente (0,4 % y tope 6 %)",
+   "corto": "PPRUD",
+   "dias": 6,
+   "desde": "2026-10-11",
+   "quieta": false,
+   "totalPct": -6.74,
+   "sharpeAnual": -7.04,
+   "psr": 0.206,
+   "minTRL": null,
+   "caidaPct": -8.46
+  },
+  {
+   "nombre": "F1AD12SH · la misma s1ad arriesgando 1,2 % por operación + fundamental · solo días hábiles",
+   "corto": "F1AD12SH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -13.73,
+   "sharpeAnual": -7.4,
+   "psr": 0.26,
+   "minTRL": null,
+   "caidaPct": -13.73
+  },
+  {
+   "nombre": "F1AD12PPRUD · Remolino prudente 🧠 (0,4 %, tope 6 %, noticias)",
+   "corto": "PPRUDF",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -5.1,
+   "sharpeAnual": -7.6,
+   "psr": 0.253,
+   "minTRL": null,
+   "caidaPct": -5.1
+  },
+  {
+   "nombre": "F1AD12PPRUDSH · Remolino prudente 🧠 (0,4 %, tope 6 %, noticias) · solo días hábiles",
+   "corto": "PPRUDFSH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -5.0,
+   "sharpeAnual": -7.62,
+   "psr": 0.252,
+   "minTRL": null,
+   "caidaPct": -5.0
+  },
+  {
+   "nombre": "S1SH · Cruce de medias 9/21 · solo días hábiles",
+   "corto": "S1SH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -11.66,
+   "sharpeAnual": -7.76,
+   "psr": 0.233,
+   "minTRL": null,
+   "caidaPct": -11.8
+  },
+  {
+   "nombre": "F6 · Tortugas 55/20 + fundamental",
+   "corto": "F6",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -12.14,
+   "sharpeAnual": -8.26,
+   "psr": 0.065,
+   "minTRL": null,
+   "caidaPct": -13.67
+  },
+  {
+   "nombre": "S1AD12PSH · S1AD12 + Parcial 15 % · solo días hábiles",
+   "corto": "S1AD12PSH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -16.39,
+   "sharpeAnual": -8.36,
+   "psr": 0.232,
+   "minTRL": null,
+   "caidaPct": -16.39
+  },
+  {
+   "nombre": "S1AD12PVOL4 · Remolino Combo 0.4 % fijo, tope 6 %, tamaño por volatilidad, solo días hábiles",
+   "corto": "CALMO",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -5.93,
+   "sharpeAnual": -8.51,
+   "psr": 0.224,
+   "minTRL": null,
+   "caidaPct": -5.93
+  },
+  {
+   "nombre": "S1AD12PPRUDSH · Remolino Combo prudente (0,4 % y tope 6 %) · solo días hábiles",
+   "corto": "PPRUDSH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -5.93,
+   "sharpeAnual": -8.51,
+   "psr": 0.224,
+   "minTRL": null,
+   "caidaPct": -5.93
+  },
+  {
+   "nombre": "S1AD12SH · la misma s1ad arriesgando 1,2 % por operación · solo días hábiles",
+   "corto": "S1AD12SH",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -16.38,
+   "sharpeAnual": -8.53,
+   "psr": 0.23,
+   "minTRL": null,
+   "caidaPct": -16.38
+  },
+  {
+   "nombre": "S1AD12VOL4 · Pepe + Miedoso + Dominio, 0,4 % fijo, tope 6 %, tamaño por volatilidad",
+   "corto": "PCALMO",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -6.48,
+   "sharpeAnual": -8.84,
+   "psr": 0.218,
+   "minTRL": null,
+   "caidaPct": -6.48
+  },
+  {
+   "nombre": "TF · nuevas + fundamental",
+   "corto": "TNF",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": false,
+   "totalPct": -2.78,
+   "sharpeAnual": -9.14,
+   "psr": 0.038,
+   "minTRL": null,
+   "caidaPct": -2.92
+  },
+  {
+   "nombre": "F1AD12MC spot · Pepe 🧠 + miedo/codicia en contra",
+   "corto": "MCF spot",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -4.03,
+   "sharpeAnual": -9.88,
+   "psr": 0.13,
+   "minTRL": null,
+   "caidaPct": -4.03
+  },
+  {
+   "nombre": "F1AD12DOM spot · Pepe 🧠 + freno de dominancia de BTC",
+   "corto": "DOMF spot",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -4.03,
+   "sharpeAnual": -9.88,
+   "psr": 0.13,
+   "minTRL": null,
+   "caidaPct": -4.03
+  },
+  {
+   "nombre": "S1AD12MC spot · Pepe + miedo/codicia en contra",
+   "corto": "MC spot",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -4.55,
+   "sharpeAnual": -9.9,
+   "psr": 0.136,
+   "minTRL": null,
+   "caidaPct": -4.76
+  },
+  {
+   "nombre": "S1AD12DOM spot · Pepe + freno de dominancia de BTC",
+   "corto": "DOM spot",
+   "dias": 4,
+   "desde": "2026-10-13",
+   "quieta": false,
+   "totalPct": -4.55,
+   "sharpeAnual": -9.9,
+   "psr": 0.136,
+   "minTRL": null,
+   "caidaPct": -4.76
+  },
+  {
+   "nombre": "Cartera H2 · Gemas escalonadas",
+   "corto": "Cartera H2",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -3.9,
+   "sharpeAnual": -10.97,
+   "psr": 0.014,
+   "minTRL": null,
+   "caidaPct": -3.9
+  },
+  {
+   "nombre": "Cartera N · Proyectos nuevos",
+   "corto": "Cartera N",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -5.3,
+   "sharpeAnual": -11.39,
+   "psr": 0.061,
+   "minTRL": null,
+   "caidaPct": -5.3
+  },
+  {
+   "nombre": "Cartera H · Gemas por fundamentales",
+   "corto": "Cartera H",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": false,
+   "totalPct": -6.2,
+   "sharpeAnual": -14.41,
+   "psr": 0.005,
+   "minTRL": null,
+   "caidaPct": -6.2
+  },
+  {
+   "nombre": "F11 · Corto por desbloqueo",
+   "corto": "F11",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": true,
+   "totalPct": 0.0,
+   "sharpeAnual": 0.0,
+   "psr": null,
+   "minTRL": null,
+   "caidaPct": 0.0
+  },
+  {
+   "nombre": "Ballena · acumula en caídas (6 grandes)",
+   "corto": "BAL",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": true,
+   "totalPct": 0.0,
+   "sharpeAnual": 0.0,
+   "psr": null,
+   "minTRL": null,
+   "caidaPct": 0.0
+  },
+  {
+   "nombre": "Ballena + volumen · compra en capitulación (6 grandes)",
+   "corto": "BALV",
+   "dias": 11,
+   "desde": "2026-10-06",
+   "quieta": true,
+   "totalPct": 0.0,
+   "sharpeAnual": 0.0,
+   "psr": null,
+   "minTRL": null,
+   "caidaPct": 0.0
+  },
+  {
+   "nombre": "BALF · Ballena + fundamental (6 grandes)",
+   "corto": "BALF",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": true,
+   "totalPct": 0.0,
+   "sharpeAnual": 0.0,
+   "psr": null,
+   "minTRL": null,
+   "caidaPct": 0.0
+  },
+  {
+   "nombre": "BALVF · Ballena + volumen + fundamental (6 grandes)",
+   "corto": "BALVF",
+   "dias": 8,
+   "desde": "2026-10-09",
+   "quieta": true,
+   "totalPct": 0.0,
+   "sharpeAnual": 0.0,
+   "psr": null,
+   "minTRL": null,
+   "caidaPct": 0.0
+  },
+  {
+   "nombre": "Cartera B · Grupo, mejores",
+   "corto": "Cartera B",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": true,
+   "totalPct": 0.0,
+   "sharpeAnual": 0.0,
+   "psr": null,
+   "minTRL": null,
+   "caidaPct": 0.0
+  },
+  {
+   "nombre": "Cartera D · Coincidencia grupo + billetera",
+   "corto": "Cartera D",
+   "dias": 10,
+   "desde": "2026-10-07",
+   "quieta": true,
+   "totalPct": 0.0,
+   "sharpeAnual": 0.0,
+   "psr": null,
+   "minTRL": null,
+   "caidaPct": 0.0
+  }
+ ],
+ "btc": {
+  "nombre": "BTC comprar y mantener",
+  "dias": 12,
+  "totalPct": -4.99,
+  "sharpeAnual": -5.53
+ },
+ "spa": {
+  "p": null,
+  "cuentas": 51,
+  "ganan": [],
+  "dias": 8
+ },
+ "noticias": {
+  "vetosPorCuenta": {
+   "f1": {
+    "vetos": 4,
+    "cruzados": 4,
+    "abiertas": 2,
+    "sumaR": -2.37,
+    "detalle": [
+     {
+      "symbol": "FIL",
+      "lado": "largo",
+      "R": -1.01,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.1 % del circulante en 14 días"
+     },
+     {
+      "symbol": "GTC",
+      "lado": "largo",
+      "R": -0.83,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: aviso de Binance (deslistado/monitoring)"
+     },
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.46,
+      "estado": "abierta",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f1d": {
+    "vetos": 4,
+    "cruzados": 4,
+    "abiertas": 2,
+    "sumaR": -2.37,
+    "detalle": [
+     {
+      "symbol": "FIL",
+      "lado": "largo",
+      "R": -1.01,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.1 % del circulante en 14 días"
+     },
+     {
+      "symbol": "GTC",
+      "lado": "largo",
+      "R": -0.83,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: aviso de Binance (deslistado/monitoring)"
+     },
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.46,
+      "estado": "abierta",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f1a": {
+    "vetos": 4,
+    "cruzados": 4,
+    "abiertas": 1,
+    "sumaR": -2.06,
+    "detalle": [
+     {
+      "symbol": "FIL",
+      "lado": "largo",
+      "R": -1.01,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.1 % del circulante en 14 días"
+     },
+     {
+      "symbol": "GTC",
+      "lado": "largo",
+      "R": -0.83,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: aviso de Binance (deslistado/monitoring)"
+     },
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f1ad": {
+    "vetos": 4,
+    "cruzados": 4,
+    "abiertas": 1,
+    "sumaR": -2.06,
+    "detalle": [
+     {
+      "symbol": "FIL",
+      "lado": "largo",
+      "R": -1.01,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.1 % del circulante en 14 días"
+     },
+     {
+      "symbol": "GTC",
+      "lado": "largo",
+      "R": -0.83,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: aviso de Binance (deslistado/monitoring)"
+     },
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f1ad12": {
+    "vetos": 4,
+    "cruzados": 4,
+    "abiertas": 1,
+    "sumaR": -2.06,
+    "detalle": [
+     {
+      "symbol": "FIL",
+      "lado": "largo",
+      "R": -1.01,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.1 % del circulante en 14 días"
+     },
+     {
+      "symbol": "GTC",
+      "lado": "largo",
+      "R": -0.83,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: aviso de Binance (deslistado/monitoring)"
+     },
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "fsar": {
+    "vetos": 6,
+    "cruzados": 6,
+    "abiertas": 4,
+    "sumaR": -1.82,
+    "detalle": [
+     {
+      "symbol": "FIL",
+      "lado": "largo",
+      "R": -0.6,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.1 % del circulante en 14 días"
+     },
+     {
+      "symbol": "GTC",
+      "lado": "largo",
+      "R": -0.59,
+      "estado": "abierta",
+      "motivo": "veto fundamental: aviso de Binance (deslistado/monitoring)"
+     },
+     {
+      "symbol": "SOL",
+      "lado": "corto",
+      "R": 0.21,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de nuevo ETF de Solana al contado por parte de Pando Finance en Hong Kong el "
+     },
+     {
+      "symbol": "XRP",
+      "lado": "corto",
+      "R": 0.45,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: 2026-10-12: Debut de Evernorth (XRPN) en Nasdaq."
+     },
+     {
+      "symbol": "OGN",
+      "lado": "largo",
+      "R": -0.91,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: incidente grave reciente"
+     },
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.38,
+      "estado": "abierta",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     }
+    ]
+   },
+   "cff1": {
+    "vetos": 4,
+    "cruzados": 4,
+    "abiertas": 2,
+    "sumaR": -2.37,
+    "detalle": [
+     {
+      "symbol": "FIL",
+      "lado": "largo",
+      "R": -1.01,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.1 % del circulante en 14 días"
+     },
+     {
+      "symbol": "GTC",
+      "lado": "largo",
+      "R": -0.83,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: aviso de Binance (deslistado/monitoring)"
+     },
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.46,
+      "estado": "abierta",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f6": {
+    "vetos": 1,
+    "cruzados": 0,
+    "abiertas": 0,
+    "sumaR": 0,
+    "detalle": []
+   },
+   "tecnicoF": {
+    "vetos": 1,
+    "cruzados": 0,
+    "abiertas": 0,
+    "sumaR": 0,
+    "detalle": []
+   },
+   "f1ad12mc_sp": {
+    "vetos": 1,
+    "cruzados": 1,
+    "abiertas": 0,
+    "sumaR": -0.23,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.23,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     }
+    ]
+   },
+   "f1ad12dom_sp": {
+    "vetos": 1,
+    "cruzados": 1,
+    "abiertas": 0,
+    "sumaR": -0.23,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.23,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     }
+    ]
+   },
+   "f1ad12mc": {
+    "vetos": 2,
+    "cruzados": 2,
+    "abiertas": 1,
+    "sumaR": -0.22,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f1ad12dom": {
+    "vetos": 2,
+    "cruzados": 2,
+    "abiertas": 1,
+    "sumaR": -0.22,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f1ad12pprud": {
+    "vetos": 2,
+    "cruzados": 1,
+    "abiertas": 0,
+    "sumaR": -0.15,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     }
+    ]
+   },
+   "f1ad12sh": {
+    "vetos": 2,
+    "cruzados": 2,
+    "abiertas": 1,
+    "sumaR": -0.22,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "f1ad12pprudsh": {
+    "vetos": 2,
+    "cruzados": 1,
+    "abiertas": 0,
+    "sumaR": -0.15,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.15,
+      "estado": "cerrada",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     }
+    ]
+   },
+   "f1sh": {
+    "vetos": 2,
+    "cruzados": 2,
+    "abiertas": 2,
+    "sumaR": -0.53,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.46,
+      "estado": "abierta",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   },
+   "cffsh1": {
+    "vetos": 2,
+    "cruzados": 2,
+    "abiertas": 2,
+    "sumaR": -0.53,
+    "detalle": [
+     {
+      "symbol": "ARB",
+      "lado": "largo",
+      "R": -0.46,
+      "estado": "abierta",
+      "motivo": "veto fundamental: desbloqueo del 1.56 % del circulante en 14 días"
+     },
+     {
+      "symbol": "UNI",
+      "lado": "corto",
+      "R": -0.07,
+      "estado": "abierta",
+      "motivo": "veto fundamental: catalizador: Lanzamiento de Futuros de UNI en CME el 19 de octubre de 2026"
+     }
+    ]
+   }
+  },
+  "n": 44,
+  "mediaR": -0.4,
+  "ic90": [
+   -0.497,
+   -0.305
+  ]
+ },
+ "laboratorio": {
+  "equity": 9780.26,
+  "lt": {
+   "resultadoUSD": -1.73,
+   "operaciones": 1
+  }
+ },
+ "texto": "📐 <b>Estadísticas · ¿real o suerte?</b> (desde el 06/10)\n\nPSR = probabilidad de que la cuenta gane de verdad (no por suerte). Días que faltan = cuántos días más hacen falta para afirmarlo con 95 %.\n\nBTC comprar y mantener: −5,0 %\n• <b>S7 spot</b> +0,0 % · PSR 87 % · faltan 12 días\n• <b>F7 spot</b> +0,0 % · PSR 87 % · faltan 12 días\n• <b>S7</b> +1,1 % · PSR 76 % · faltan 46 días\n• <b>F7</b> +0,9 % · PSR 72 % · faltan 68 días\n• <b>Cartera A</b> +6,8 % · PSR 71 % · faltan 69 días\n• <b>LAB+LT</b> +0,2 % · PSR 53 % · faltan 4097 días\n• <b>LAB</b> +0,2 % · PSR 52 % · faltan 5770 días\n• <b>LT</b> +0,1 % · PSR 52 % · faltan 10474 días\n• <b>TN</b> −1,4 % · PSR 30 % · va perdiendo: ningún plazo alcanza\n• <b>TEF</b> −6,9 % · PSR 30 % · va perdiendo: ningún plazo alcanza\n• <b>CF</b> −3,0 % · PSR 26 % · va perdiendo: ningún plazo alcanza\n• <b>CFVOL</b> −3,0 % · PSR 26 % · va perdiendo: ningún plazo alcanza\n• <b>Cartera G</b> −7,5 % · PSR 28 % · va perdiendo: ningún plazo alcanza\n• <b>FSAR</b> −8,7 % · PSR 29 % · va perdiendo: ningún plazo alcanza\n• <b>Cartera G2</b> −5,8 % · PSR 25 % · va perdiendo: ningún plazo alcanza\n• <b>SAR</b> −12,5 % · PSR 22 % · va perdiendo: ningún plazo alcanza\n• <b>CFSH</b> −2,3 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>F1</b> −13,7 % · PSR 19 % · va perdiendo: ningún plazo alcanza\n• <b>S1A</b> −17,4 % · PSR 20 % · va perdiendo: ningún plazo alcanza\n• <b>S1</b> −17,7 % · PSR 16 % · va perdiendo: ningún plazo alcanza\n• <b>CFFSH</b> −2,1 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>S1AD12</b> −23,9 % · PSR 16 % · va perdiendo: ningún plazo alcanza\n• <b>MC</b> −23,9 % · PSR 16 % · va perdiendo: ningún plazo alcanza\n• <b>DOM</b> −23,9 % · PSR 16 % · va perdiendo: ningún plazo alcanza\n• <b>CF2</b> −6,8 % · PSR 19 % · va perdiendo: ningún plazo alcanza\n• <b>F1A</b> −15,4 % · PSR 21 % · va perdiendo: ningún plazo alcanza\n• <b>S1AD</b> −20,4 % · PSR 15 % · va perdiendo: ningún plazo alcanza\n• <b>S1AD12TP</b> −16,7 % · 6 días: muy pocos para medir (mínimo 7)\n• <b>S1D</b> −19,0 % · PSR 13 % · va perdiendo: ningún plazo alcanza\n• <b>CFF</b> −3,9 % · PSR 19 % · va perdiendo: ningún plazo alcanza\n• <b>TE</b> −19,8 % · PSR 16 % · va perdiendo: ningún plazo alcanza\n• <b>Cartera C</b> −4,6 % · PSR 6 % · va perdiendo: ningún plazo alcanza\n• <b>F1AD12</b> −20,2 % · PSR 19 % · va perdiendo: ningún plazo alcanza\n• <b>MCF</b> −20,2 % · PSR 19 % · va perdiendo: ningún plazo alcanza\n• <b>DOMF</b> −20,2 % · PSR 19 % · va perdiendo: ningún plazo alcanza\n• <b>COMBO</b> −20,2 % · PSR 19 % · va perdiendo: ningún plazo alcanza\n• <b>F1SH</b> −9,8 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>Cartera E</b> −4,6 % · PSR 5 % · va perdiendo: ningún plazo alcanza\n• <b>F1AD</b> −17,1 % · PSR 18 % · va perdiendo: ningún plazo alcanza\n• <b>Cartera C2</b> −4,9 % · PSR 5 % · va perdiendo: ningún plazo alcanza\n• <b>S1AD12P</b> −18,8 % · 6 días: muy pocos para medir (mínimo 7)\n• <b>PCOMBO</b> −18,8 % · 6 días: muy pocos para medir (mínimo 7)\n• <b>Cartera F</b> −4,3 % · PSR 5 % · va perdiendo: ningún plazo alcanza\n• <b>ALTO</b> −13,8 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>F1D</b> −15,8 % · PSR 16 % · va perdiendo: ningún plazo alcanza\n• <b>MEDIO</b> −9,4 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>S6</b> −11,9 % · PSR 13 % · va perdiendo: ningún plazo alcanza\n• <b>PPRUD</b> −6,7 % · 6 días: muy pocos para medir (mínimo 7)\n• <b>F1AD12SH</b> −13,7 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>PPRUDF</b> −5,1 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>PPRUDFSH</b> −5,0 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>S1SH</b> −11,7 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>F6</b> −12,1 % · PSR 6 % · va perdiendo: ningún plazo alcanza\n• <b>S1AD12PSH</b> −16,4 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>CALMO</b> −5,9 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>PPRUDSH</b> −5,9 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>S1AD12SH</b> −16,4 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>PCALMO</b> −6,5 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>TNF</b> −2,8 % · PSR 4 % · va perdiendo: ningún plazo alcanza\n• <b>MCF spot</b> −4,0 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>DOMF spot</b> −4,0 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>MC spot</b> −4,5 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>DOM spot</b> −4,5 % · 4 días: muy pocos para medir (mínimo 7)\n• <b>Cartera H2</b> −3,9 % · PSR 1 % · va perdiendo: ningún plazo alcanza\n• <b>Cartera N</b> −5,3 % · PSR 6 % · va perdiendo: ningún plazo alcanza\n• <b>Cartera H</b> −6,2 % · PSR 0 % · va perdiendo: ningún plazo alcanza\n• <b>F11</b> sin movimiento todavía\n• <b>BAL</b> sin movimiento todavía\n• <b>BALV</b> sin movimiento todavía\n• <b>BALF</b> sin movimiento todavía\n• <b>BALVF</b> sin movimiento todavía\n• <b>Cartera B</b> sin movimiento todavía\n• <b>Cartera D</b> sin movimiento todavía\n\nConcluyentes (PSR ≥ 95 %): ninguna todavía.\nLa mejor (S7 spot) corrigiendo por haber probado 73 a la vez: 14 % (Deflated Sharpe).\n\n🧠 <b>¿Las noticias suman?</b> Operaciones que el filtro de noticias frenó y cómo les fue en la cuenta solo técnico:\n44 operaciones, promedio −0,40 R (90 %: −0,50 a −0,30 R). Negativo = el filtro evitó pérdidas; positivo = hizo perder ganadoras.\n→ Por ahora las noticias AYUDAN (el intervalo entero es negativo).\n\n🧪 Laboratorio −2,2 %; sin fundamentos (Laboratorio + LT, 1 operaciones): −2,2 %."
+}
