@@ -1,0 +1,553 @@
+{
+ "generado": "2026-10-19T01:34:12Z",
+ "rankingCuentas": 14454,
+ "siguen": 6,
+ "actuales": [
+  {
+   "direccion": "0x5d2f4460ac3514ada79f5d9838916e508ab39bb7",
+   "cuentaUsd": 3638771,
+   "ganoUsd": 65193553,
+   "roi": 2.61,
+   "mesUsd": 79879,
+   "rotacionMes": 5.0,
+   "dias": 662,
+   "devolvioPct": 33,
+   "aperturas30d": 191,
+   "largos30d": 191,
+   "apalMax": 0,
+   "motivosNo": []
+  },
+  {
+   "direccion": "0xceec48581b3145a575508719f45da07dc57fa7ce",
+   "cuentaUsd": 14253513,
+   "ganoUsd": 16676945,
+   "roi": 5.91,
+   "mesUsd": 2191841,
+   "rotacionMes": 2.1,
+   "dias": 1033,
+   "devolvioPct": 20,
+   "aperturas30d": 954,
+   "largos30d": 0,
+   "apalMax": 10.0,
+   "motivosNo": [
+    "poca actividad (954 aperturas, 0 largos)"
+   ]
+  },
+  {
+   "direccion": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
+   "cuentaUsd": 13537448,
+   "ganoUsd": 12743052,
+   "roi": 10.87,
+   "mesUsd": 1143829,
+   "rotacionMes": 5.0,
+   "dias": 1040,
+   "devolvioPct": 14,
+   "aperturas30d": 243,
+   "largos30d": 243,
+   "apalMax": 10.0,
+   "motivosNo": []
+  },
+  {
+   "direccion": "0x757df2c060ec6c7ba898fa6570aa98c1f46294ba",
+   "cuentaUsd": 9819254,
+   "ganoUsd": 9820270,
+   "roi": 12.25,
+   "mesUsd": 116055,
+   "rotacionMes": 4.0,
+   "dias": 977,
+   "devolvioPct": 40,
+   "aperturas30d": 1431,
+   "largos30d": 1431,
+   "apalMax": 10.0,
+   "motivosNo": []
+  },
+  {
+   "direccion": "0xb798aef79972ce8f73d47b9ebbcda6bbb7ec4fbf",
+   "fueraDelRanking": true,
+   "motivosNo": [
+    "ya no aparece en el ranking (cuenta < 100 k o > 20 M, o sin actividad)"
+   ]
+  },
+  {
+   "direccion": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
+   "cuentaUsd": 1655479,
+   "ganoUsd": 9254729,
+   "roi": 1.71,
+   "mesUsd": 445235,
+   "rotacionMes": 5.7,
+   "dias": 830,
+   "devolvioPct": 17,
+   "aperturas30d": 1912,
+   "largos30d": 1912,
+   "apalMax": 5.0,
+   "motivosNo": []
+  },
+  {
+   "direccion": "0xd21d931890d27b6e7e2e668f27931e17698e90f1",
+   "cuentaUsd": 4660453,
+   "ganoUsd": 4835180,
+   "roi": 4.49,
+   "mesUsd": -5701810,
+   "rotacionMes": 11.8,
+   "dias": 263,
+   "devolvioPct": 64,
+   "aperturas30d": 399,
+   "largos30d": 399,
+   "apalMax": 5.0,
+   "motivosNo": [
+    "pierde este mes (-5,701,810 USD)",
+    "devolvió 64 % de lo ganado"
+   ]
+  },
+  {
+   "direccion": "0x92ae4209e3a5760903aff0c423312392eb3f86a8",
+   "cuentaUsd": 5734717,
+   "ganoUsd": 6195211,
+   "roi": 3.9,
+   "mesUsd": -105137,
+   "rotacionMes": 2.1,
+   "dias": 886,
+   "devolvioPct": 45,
+   "aperturas30d": 669,
+   "largos30d": 385,
+   "apalMax": 3.0,
+   "motivosNo": [
+    "pierde este mes (-105,137 USD)"
+   ]
+  },
+  {
+   "direccion": "0x57f2819c959abbcf22623d5ec1d3164b213e9711",
+   "cuentaUsd": 687653,
+   "ganoUsd": 4485963,
+   "roi": 10.62,
+   "mesUsd": -457222,
+   "rotacionMes": 47.4,
+   "dias": 1131,
+   "devolvioPct": 40,
+   "aperturas30d": 2000,
+   "largos30d": 2000,
+   "apalMax": 0,
+   "motivosNo": [
+    "pierde este mes (-457,222 USD)"
+   ]
+  },
+  {
+   "direccion": "0xb4a9964201c213af0c9c7f62af561813c9a2f1f7",
+   "cuentaUsd": 7149097,
+   "ganoUsd": 4041654,
+   "roi": 1.3,
+   "mesUsd": -400946,
+   "rotacionMes": 7.8,
+   "dias": 1068,
+   "devolvioPct": 45,
+   "aperturas30d": 1489,
+   "largos30d": 1489,
+   "apalMax": 10.0,
+   "motivosNo": [
+    "pierde este mes (-400,946 USD)"
+   ]
+  },
+  {
+   "direccion": "0x5cbdb794b3b36df58a7ce6c1a552f117f061103b",
+   "cuentaUsd": 1739934,
+   "ganoUsd": 4993478,
+   "roi": 11.21,
+   "mesUsd": 390306,
+   "rotacionMes": 4.6,
+   "dias": 1082,
+   "devolvioPct": 7,
+   "aperturas30d": 1153,
+   "largos30d": 544,
+   "apalMax": 3.0,
+   "motivosNo": []
+  },
+  {
+   "direccion": "0x166866a2845506f6b4c817482fe53b4985882ea6",
+   "cuentaUsd": 1150263,
+   "ganoUsd": 4541503,
+   "roi": 16.02,
+   "mesUsd": -49387,
+   "rotacionMes": 2.6,
+   "dias": 1054,
+   "devolvioPct": 29,
+   "aperturas30d": 394,
+   "largos30d": 394,
+   "apalMax": 0,
+   "motivosNo": [
+    "pierde este mes (-49,387 USD)"
+   ]
+  },
+  {
+   "direccion": "0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30",
+   "cuentaUsd": 8021625,
+   "ganoUsd": 4212017,
+   "roi": 0.54,
+   "mesUsd": 337064,
+   "rotacionMes": 1.5,
+   "dias": 669,
+   "devolvioPct": 40,
+   "aperturas30d": 1279,
+   "largos30d": 0,
+   "apalMax": 10.0,
+   "motivosNo": [
+    "poca actividad (1279 aperturas, 0 largos)"
+   ]
+  },
+  {
+   "direccion": "0x668cec05549105e5b05bcc779a43186735d7ea2e",
+   "cuentaUsd": 6059958,
+   "ganoUsd": 4608530,
+   "roi": 3.18,
+   "mesUsd": 1207130,
+   "rotacionMes": 6.5,
+   "dias": 718,
+   "devolvioPct": 46,
+   "aperturas30d": 933,
+   "largos30d": 933,
+   "apalMax": 10.0,
+   "motivosNo": []
+  },
+  {
+   "direccion": "0x59629e23c52a0d7c092436870ef2db1dc382ddf8",
+   "cuentaUsd": 2255497,
+   "ganoUsd": 3640384,
+   "roi": 2.32,
+   "mesUsd": -71002,
+   "rotacionMes": 41.9,
+   "dias": 1152,
+   "devolvioPct": 23,
+   "aperturas30d": 1095,
+   "largos30d": 300,
+   "apalMax": 10.0,
+   "motivosNo": [
+    "pierde este mes (-71,002 USD)"
+   ]
+  }
+ ],
+ "candidatos": [
+  {
+   "direccion": "0xd507eeef2152d54b8c00cba499340f7b7a59c948",
+   "cuentaUsd": 8015817,
+   "ganoUsd": 9533985,
+   "roi": 1.03,
+   "mesUsd": 689341,
+   "rotacionMes": 2.7,
+   "dias": 991,
+   "devolvioPct": 37,
+   "aperturas30d": 297,
+   "largos30d": 297,
+   "apalMax": 5.0
+  },
+  {
+   "direccion": "0xfb8c34145bdea190693325d0ab01e81120909b3f",
+   "cuentaUsd": 158700,
+   "ganoUsd": 8532867,
+   "roi": 4.35,
+   "mesUsd": 22597,
+   "rotacionMes": 4.0,
+   "dias": 963,
+   "devolvioPct": 29,
+   "aperturas30d": 6,
+   "largos30d": 6,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0x089fe537f4b2af55fa990bc64ff4125800bba4f8",
+   "cuentaUsd": 19744839,
+   "ganoUsd": 8035111,
+   "roi": 0.79,
+   "mesUsd": 571858,
+   "rotacionMes": 1.4,
+   "dias": 340,
+   "devolvioPct": 41,
+   "aperturas30d": 1084,
+   "largos30d": 1084,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x8bcf7a888c66f635ac4a2caf42a8dd12a3b20b14",
+   "cuentaUsd": 4545118,
+   "ganoUsd": 5176483,
+   "roi": 14.3,
+   "mesUsd": 213747,
+   "rotacionMes": 2.6,
+   "dias": 970,
+   "devolvioPct": 14,
+   "aperturas30d": 1086,
+   "largos30d": 836,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x7eb9026d0183942458bd4660371c3cc0a2df3beb",
+   "cuentaUsd": 5504957,
+   "ganoUsd": 4073632,
+   "roi": 2.85,
+   "mesUsd": 235509,
+   "rotacionMes": 23.4,
+   "dias": 354,
+   "devolvioPct": 24,
+   "aperturas30d": 1109,
+   "largos30d": 175,
+   "apalMax": 5.0
+  },
+  {
+   "direccion": "0xb6ca5d1ed0ca4bf8444c9dee2d068a9f4c5e2e92",
+   "cuentaUsd": 3853595,
+   "ganoUsd": 4008628,
+   "roi": 6.88,
+   "mesUsd": 437991,
+   "rotacionMes": 18.1,
+   "dias": 1047,
+   "devolvioPct": 36,
+   "aperturas30d": 994,
+   "largos30d": 765,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x79cc76364b5fb263a25bd52930e3d9788fcfeea8",
+   "cuentaUsd": 3458954,
+   "ganoUsd": 3912228,
+   "roi": 0.98,
+   "mesUsd": 71158,
+   "rotacionMes": 2.7,
+   "dias": 669,
+   "devolvioPct": 14,
+   "aperturas30d": 712,
+   "largos30d": 712,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x98e073b579fd483eac8f10d5bd0b32c8c3bbd7e0",
+   "cuentaUsd": 2412432,
+   "ganoUsd": 3447545,
+   "roi": 6.52,
+   "mesUsd": 7779,
+   "rotacionMes": 8.4,
+   "dias": 1075,
+   "devolvioPct": 18,
+   "aperturas30d": 1472,
+   "largos30d": 1472,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0xab5e6f394951c28ab1873007e373202689cdbec3",
+   "cuentaUsd": 4099727,
+   "ganoUsd": 3349665,
+   "roi": 1.72,
+   "mesUsd": 4785,
+   "rotacionMes": 20.9,
+   "dias": 361,
+   "devolvioPct": 9,
+   "aperturas30d": 32,
+   "largos30d": 30,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x5740affc8faf8913f9f2d5fbb9bdc6e8119ea9da",
+   "cuentaUsd": 2393247,
+   "ganoUsd": 3244546,
+   "roi": 2.55,
+   "mesUsd": 129783,
+   "rotacionMes": 2.4,
+   "dias": 683,
+   "devolvioPct": 45,
+   "aperturas30d": 1512,
+   "largos30d": 1387,
+   "apalMax": 6.0
+  },
+  {
+   "direccion": "0xa237f4cc7bbc930fd531b1a36f31e54f778fc431",
+   "cuentaUsd": 3364731,
+   "ganoUsd": 3228199,
+   "roi": 12.2,
+   "mesUsd": 132601,
+   "rotacionMes": 3.1,
+   "dias": 837,
+   "devolvioPct": 32,
+   "aperturas30d": 153,
+   "largos30d": 123,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0x885989fd94d30c150e6eaf897090509bce4f6aa8",
+   "cuentaUsd": 1643428,
+   "ganoUsd": 3216839,
+   "roi": 2.47,
+   "mesUsd": 21771,
+   "rotacionMes": 5.2,
+   "dias": 935,
+   "devolvioPct": 2,
+   "aperturas30d": 203,
+   "largos30d": 44,
+   "apalMax": 0
+  }
+ ],
+ "nueva": [
+  {
+   "direccion": "0x5d2f4460ac3514ada79f5d9838916e508ab39bb7",
+   "cuentaUsd": 3638771,
+   "ganoUsd": 65193553,
+   "roi": 2.61,
+   "mesUsd": 79879,
+   "devolvioPct": 33,
+   "dias": 662,
+   "aperturas30d": 191,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
+   "cuentaUsd": 13537448,
+   "ganoUsd": 12743052,
+   "roi": 10.87,
+   "mesUsd": 1143829,
+   "devolvioPct": 14,
+   "dias": 1040,
+   "aperturas30d": 243,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0x757df2c060ec6c7ba898fa6570aa98c1f46294ba",
+   "cuentaUsd": 9819254,
+   "ganoUsd": 9820270,
+   "roi": 12.25,
+   "mesUsd": 116055,
+   "devolvioPct": 40,
+   "dias": 977,
+   "aperturas30d": 1431,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0xd507eeef2152d54b8c00cba499340f7b7a59c948",
+   "cuentaUsd": 8015817,
+   "ganoUsd": 9533985,
+   "roi": 1.03,
+   "mesUsd": 689341,
+   "devolvioPct": 37,
+   "dias": 991,
+   "aperturas30d": 297,
+   "apalMax": 5.0
+  },
+  {
+   "direccion": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
+   "cuentaUsd": 1655479,
+   "ganoUsd": 9254729,
+   "roi": 1.71,
+   "mesUsd": 445235,
+   "devolvioPct": 17,
+   "dias": 830,
+   "aperturas30d": 1912,
+   "apalMax": 5.0
+  },
+  {
+   "direccion": "0xfb8c34145bdea190693325d0ab01e81120909b3f",
+   "cuentaUsd": 158700,
+   "ganoUsd": 8532867,
+   "roi": 4.35,
+   "mesUsd": 22597,
+   "devolvioPct": 29,
+   "dias": 963,
+   "aperturas30d": 6,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0x089fe537f4b2af55fa990bc64ff4125800bba4f8",
+   "cuentaUsd": 19744839,
+   "ganoUsd": 8035111,
+   "roi": 0.79,
+   "mesUsd": 571858,
+   "devolvioPct": 41,
+   "dias": 340,
+   "aperturas30d": 1084,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x8bcf7a888c66f635ac4a2caf42a8dd12a3b20b14",
+   "cuentaUsd": 4545118,
+   "ganoUsd": 5176483,
+   "roi": 14.3,
+   "mesUsd": 213747,
+   "devolvioPct": 14,
+   "dias": 970,
+   "aperturas30d": 1086,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x5cbdb794b3b36df58a7ce6c1a552f117f061103b",
+   "cuentaUsd": 1739934,
+   "ganoUsd": 4993478,
+   "roi": 11.21,
+   "mesUsd": 390306,
+   "devolvioPct": 7,
+   "dias": 1082,
+   "aperturas30d": 1153,
+   "apalMax": 3.0
+  },
+  {
+   "direccion": "0x668cec05549105e5b05bcc779a43186735d7ea2e",
+   "cuentaUsd": 6059958,
+   "ganoUsd": 4608530,
+   "roi": 3.18,
+   "mesUsd": 1207130,
+   "devolvioPct": 46,
+   "dias": 718,
+   "aperturas30d": 933,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0x7eb9026d0183942458bd4660371c3cc0a2df3beb",
+   "cuentaUsd": 5504957,
+   "ganoUsd": 4073632,
+   "roi": 2.85,
+   "mesUsd": 235509,
+   "devolvioPct": 24,
+   "dias": 354,
+   "aperturas30d": 1109,
+   "apalMax": 5.0
+  },
+  {
+   "direccion": "0xb6ca5d1ed0ca4bf8444c9dee2d068a9f4c5e2e92",
+   "cuentaUsd": 3853595,
+   "ganoUsd": 4008628,
+   "roi": 6.88,
+   "mesUsd": 437991,
+   "devolvioPct": 36,
+   "dias": 1047,
+   "aperturas30d": 994,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x79cc76364b5fb263a25bd52930e3d9788fcfeea8",
+   "cuentaUsd": 3458954,
+   "ganoUsd": 3912228,
+   "roi": 0.98,
+   "mesUsd": 71158,
+   "devolvioPct": 14,
+   "dias": 669,
+   "aperturas30d": 712,
+   "apalMax": 0
+  },
+  {
+   "direccion": "0x98e073b579fd483eac8f10d5bd0b32c8c3bbd7e0",
+   "cuentaUsd": 2412432,
+   "ganoUsd": 3447545,
+   "roi": 6.52,
+   "mesUsd": 7779,
+   "devolvioPct": 18,
+   "dias": 1075,
+   "aperturas30d": 1472,
+   "apalMax": 10.0
+  },
+  {
+   "direccion": "0xab5e6f394951c28ab1873007e373202689cdbec3",
+   "cuentaUsd": 4099727,
+   "ganoUsd": 3349665,
+   "roi": 1.72,
+   "mesUsd": 4785,
+   "devolvioPct": 9,
+   "dias": 361,
+   "aperturas30d": 32,
+   "apalMax": 0
+  }
+ ],
+ "nota": "La lista de traders/traders.json es FIJA durante el estudio (6/10 → 5/12). \"nueva\" es la que saldría hoy con el mismo criterio; se aplica solo con el OK de Pablo."
+}

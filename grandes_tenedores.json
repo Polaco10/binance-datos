@@ -1,0 +1,290 @@
+{
+ "generado": "2026-10-22T10:51:58Z",
+ "nota": "FASE 1: datos, todavía no frenan operaciones. posibleVenta = envío a un exchange conocido (1salto = pasando por una dirección intermedia); direccionNueva/interno = movimientos que no son venta.",
+ "vigiladas": 165,
+ "descubiertas": [
+  {
+   "moneda": "XRP",
+   "direccion": "rP4X2hTa7A7udDbE6wczXvPz7XZ63sKxv3",
+   "dueno": "Ripple (50)",
+   "tipo": "emisor",
+   "fuente": "descubierta: recibió 10,000,000 XRP de rJqiMb94hyz4… el 2026-10-14",
+   "descubierta": "2026-10-14T16:36:50Z"
+  },
+  {
+   "moneda": "XRP",
+   "direccion": "raRVLN1i5QFF6w8cwV3RovtTkjFj3qyNRf",
+   "dueno": "Ripple (50)",
+   "tipo": "emisor",
+   "fuente": "descubierta: recibió 20,000,000 XRP de rJqiMb94hyz4… el 2026-10-14",
+   "descubierta": "2026-10-14T17:26:31Z"
+  }
+ ],
+ "resumen7d": {
+  "BTC": {
+   "aExchange7d": 0,
+   "interno7d": 177,
+   "recibido7d": 0,
+   "precio": 82083.09
+  },
+  "ETH": {
+   "aExchange7d": 0,
+   "interno7d": 0,
+   "recibido7d": 0,
+   "precio": 2408.14
+  },
+  "XRP": {
+   "aExchange7d": 0,
+   "interno7d": 10000000,
+   "recibido7d": 10000000,
+   "precio": 1.3306
+  }
+ },
+ "eventos": [
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 114.884906,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "c3cdbfe40b1858cb1d8bd818611b80931237eebefa9ff7ad4856b1467861a8a7",
+   "t": "2026-10-10T08:47:22Z",
+   "usd": 9511073,
+   "enPrueba": true
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "BTC",
+   "monto": 127.51869228,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "txid": "4789bd8d48c7a153b22ba24664577f47d8bc7ca2cac55c3bab87f260a998faf5",
+   "t": "2026-10-10T13:29:30Z",
+   "usd": 10591534
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 146.974212,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "cb8e385c80405c22b20c168a76f1f7b5fc14974e8a1eadcbcf529c3cd90db260",
+   "t": "2026-10-11T08:36:08Z",
+   "usd": 12212087,
+   "enPrueba": true
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "BTC",
+   "monto": 146.97239208,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "txid": "91e46b2fb8f898e7fd3cfa37368b77f086a6cbac4a244625b21622a3b46ff714",
+   "t": "2026-10-11T13:41:47Z",
+   "usd": 12218779
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 119.874752,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "e3b383194d087cd58c6d92e79570ac47febe52cd95da4e5621c9e97ff1674825",
+   "t": "2026-10-12T08:01:43Z",
+   "usd": 10025605,
+   "enPrueba": true
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "BTC",
+   "monto": 167.79740808,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "txid": "746816b560019a28784bec266f4650d8388fb5334a0b6815e6dff70fdbef8b82",
+   "t": "2026-10-12T13:28:34Z",
+   "usd": 13859395
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 118.707859,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "16fe7f9663e0304f75a4bd54ae0ed32e2dc31b22d760a61fe22170e3a414b801",
+   "t": "2026-10-13T07:13:37Z",
+   "usd": 9938697,
+   "enPrueba": true
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "BTC",
+   "monto": 268.46275193,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "txid": "637f39a853eab333fc0dd0f0911b66971804e69d3ff9f342191a9c7121a4d7c1",
+   "t": "2026-10-13T14:11:05Z",
+   "usd": 22479283
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "BTC",
+   "monto": 200.0,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "txid": "e4bc6538cde62883abccbdecec747e95b044bee1c58642828a7dca91a8d1b751",
+   "t": "2026-10-13T13:34:27Z",
+   "usd": 16746668
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 135.646534,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "8a7c4ef278bf86b83a1f676e40e694d690436fb2435a92ac2a421e5b5a1d4fdf",
+   "t": "2026-10-14T07:31:28Z",
+   "usd": 11319466,
+   "enPrueba": true
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "BTC",
+   "monto": 199.97571383,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "txid": "f0c291d5762af68b9ff23b8be6c29eb8981082707e0539d20b87efadbda54b55",
+   "t": "2026-10-14T14:06:08Z",
+   "usd": 16388010
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "XRP",
+   "monto": 10000000.0,
+   "dueno": "Ripple (50)",
+   "direccion": "rJqiMb94hyz41SBTNr2AyPNW8AzELa8nE",
+   "destino": "rP4X2hTa7A7udDbE6wczXvPz7XZ63sKxv3",
+   "txid": "C8B166FB920FA3B22E857AC7E1611665B16C4A862A2D2A56ED83E3CED03209C4",
+   "t": "2026-10-14T16:36:50Z",
+   "usd": 13380000
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "XRP",
+   "monto": 20000000.0,
+   "dueno": "Ripple (50)",
+   "direccion": "rJqiMb94hyz41SBTNr2AyPNW8AzELa8nE",
+   "destino": "raRVLN1i5QFF6w8cwV3RovtTkjFj3qyNRf",
+   "txid": "9252A1B3DC8592ADFBBE39E04B641D95FCFE1E217C879839398AD700F83D1534",
+   "t": "2026-10-14T17:26:31Z",
+   "usd": 26488000
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 102.624194,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "9883cb00d0248ff72b6077eacbe5ab6b365d3156f2b9ffbf48b22541d41f021c",
+   "t": "2026-10-15T07:53:37Z",
+   "usd": 8341133,
+   "enPrueba": true
+  },
+  {
+   "tipo": "direccionNueva",
+   "moneda": "BTC",
+   "monto": 177.456359,
+   "dueno": "Ballena desconocida 12VuUf (en prueba: anticipa)",
+   "direccion": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+   "destino": "1AZ7aYCT6JPLF1EZ7PgymfFtH4xK44CcCP",
+   "txid": "6bae0eb5e3d8bf2d5e7d6e015548bb0ff161e7ef79ba248832f8d3bf40b63626",
+   "t": "2026-10-16T09:04:34Z",
+   "usd": 14585138,
+   "enPrueba": true
+  },
+  {
+   "tipo": "interno",
+   "moneda": "XRP",
+   "monto": 10000000.0,
+   "dueno": "Ripple (50)",
+   "direccion": "rJqiMb94hyz41SBTNr2AyPNW8AzELa8nE",
+   "destino": "raRVLN1i5QFF6w8cwV3RovtTkjFj3qyNRf",
+   "txid": "A4A04AD1DADED081C0071D2AD5F2824178B1EE918863CF9B1BABBC3C75BCA136",
+   "t": "2026-10-16T17:56:10Z",
+   "usd": 12958000
+  },
+  {
+   "tipo": "recibio",
+   "moneda": "XRP",
+   "monto": 10000000.0,
+   "dueno": "Ripple (50)",
+   "direccion": "raRVLN1i5QFF6w8cwV3RovtTkjFj3qyNRf",
+   "txid": "A4A04AD1DADED081C0071D2AD5F2824178B1EE918863CF9B1BABBC3C75BCA136",
+   "t": "2026-10-16T17:56:10Z",
+   "usd": 12958000
+  }
+ ],
+ "etfBtc": {
+  "fuente": "bitbo.io (no coincide exacto con Farside)",
+  "dias": [
+   {
+    "fecha": "2026-10-07",
+    "totalM": -112.9
+   },
+   {
+    "fecha": "2026-10-08",
+    "totalM": -86.3
+   },
+   {
+    "fecha": "2026-10-09",
+    "totalM": -184.3
+   },
+   {
+    "fecha": "2026-10-12",
+    "totalM": -67.5
+   },
+   {
+    "fecha": "2026-10-13",
+    "totalM": 172.7
+   },
+   {
+    "fecha": "2026-10-14",
+    "totalM": -262.9
+   },
+   {
+    "fecha": "2026-10-15",
+    "totalM": 16.3
+   },
+   {
+    "fecha": "2026-10-16",
+    "totalM": -20.0
+   },
+   {
+    "fecha": "2026-10-19",
+    "totalM": 444.4
+   },
+   {
+    "fecha": "2026-10-20",
+    "totalM": 29.7
+   }
+  ],
+  "ultimo": 29.7,
+  "fechaUltimo": "2026-10-20",
+  "suma5M": 207.5
+ },
+ "stablecoins7d": {
+  "USDT": {
+   "circulanteM": 182651,
+   "cambio7dM": -1214
+  },
+  "USDC": {
+   "circulanteM": 72542,
+   "cambio7dM": -226
+  }
+ }
+}
