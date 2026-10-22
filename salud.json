@@ -1,11 +1,11 @@
 {
- "generado": "2026-10-22T09:55:24Z",
+ "generado": "2026-10-24T12:55:03Z",
  "ok": false,
  "problemas": [
   {
-   "clave": "vigia:dudosas:7",
+   "clave": "vigia:dudosas:39",
    "gravedad": "aviso",
-   "texto": "Vigía: 7 operaciones dudosas fuera de las estadísticas (🐢 Manuelita Q, 🐢 Manuelita 🧠 Q, 🦅 Buitre DOOD, 🦅 Buitre Doble DOOD, 🦅 Buitre Kijun 1 % DOOD, 🦅 Buitre Kijun DOOD)"
+   "texto": "Vigía: 39 operaciones dudosas fuera de las estadísticas (₿ Dominio ALT, ₿ Dominio 🧠 ALT, 🌀 Remolino ALT, 🌀 Remolino Combo ALT, 🌀 Remolino 📅 ALT, 🍄 Mario ALT)"
   }
  ],
  "revisado": [

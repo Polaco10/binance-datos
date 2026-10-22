@@ -13,6 +13,7 @@ en ./cache_funding/, así que las corridas siguientes son instantáneas.
 Resultados: resultado_funding.txt y resultado_funding.json
 """
 import argparse, json, os, sys, time, math, urllib.request, urllib.error
+from urllib.parse import quote
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
@@ -56,7 +57,7 @@ def velas_diarias(simbolo, desde_ms):
     def bajar():
         out, t = [], desde_ms - 40 * DIA_MS
         while True:
-            v = get(f"{FAPI}/fapi/v1/klines?symbol={simbolo}&interval=1d&startTime={t}&limit=1000")
+            v = get(f"{FAPI}/fapi/v1/klines?symbol={quote(simbolo)}&interval=1d&startTime={t}&limit=1000")
             time.sleep(0.4)
             if not v:
                 break
@@ -73,7 +74,7 @@ def funding(simbolo, desde_ms):
     def bajar():
         out, t = [], desde_ms
         while True:
-            v = get(f"{FAPI}/fapi/v1/fundingRate?symbol={simbolo}&startTime={t}&limit=1000")
+            v = get(f"{FAPI}/fapi/v1/fundingRate?symbol={quote(simbolo)}&startTime={t}&limit=1000")
             time.sleep(0.7)               # límite: 500 pedidos cada 5 minutos
             if not v:
                 break
